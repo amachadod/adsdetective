@@ -1,0 +1,13 @@
+{
+  "name": "adsdetective",
+  "version": "0.1.0",
+  "description": "Finds which gaming and esports ads keep running on Meta. Reads Meta's public Ad Library and ranks advertisers by how long their ads stay live.",
+  "license": "MIT",
+  "author": "Alberto Machado Domínguez",
+  "repository": { "type": "git", "url": "git+https://github.com/amachadod/adsdetective.git" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": { "node": ">=18" }
+}

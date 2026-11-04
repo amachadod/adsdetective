@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: adsdetective
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.js
+    healthCheckPath: /healthz
+    envVars:
+      - key: META_ACCESS_TOKEN
+        sync: false
+      - key: META_API_VERSION
+        value: v23.0
+      - key: ACCESS_CODE
+        sync: false
