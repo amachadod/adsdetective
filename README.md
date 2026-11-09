@@ -141,5 +141,7 @@ Node.js, plain HTML, CSS and JavaScript, `node:test`. No dependencies.
 
 MIT. See [LICENSE](LICENSE). Meta, Facebook and Instagram are trademarks of Meta Platforms, Inc. AdsDetective is not affiliated with or endorsed by Meta.
 
+See how it fits together: [https://amachadod.github.io/ai-front-desk/](https://amachadod.github.io/ai-front-desk/)
+
 ---
 Built by Alberto Machado Domínguez · [albertomachdom@gmail.com](mailto:albertomachdom@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alberto-machado-dom%C3%ADnguez-708290251/)
