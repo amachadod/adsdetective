@@ -2,6 +2,8 @@
 
 **Find out which gaming and esports ads keep running on Meta.**
 
+**Who it's for:** marketers, creative strategists and researchers in gaming and esports who want to see which competitors' ads keep running.
+
 AdsDetective is a small research tool. You pick a topic and a country. It reads Meta's public Ad Library and ranks advertisers by how long their ads stay live. A long run is a useful clue that an ad pays for itself. It is a clue, not proof.
 
 👉 **Live demo:** https://amachadod.github.io/adsdetective/ (sample data)
@@ -138,3 +140,6 @@ Node.js, plain HTML, CSS and JavaScript, `node:test`. No dependencies.
 ## License
 
 MIT. See [LICENSE](LICENSE). Meta, Facebook and Instagram are trademarks of Meta Platforms, Inc. AdsDetective is not affiliated with or endorsed by Meta.
+
+---
+Built by Alberto Machado Domínguez · [albertomachdom@gmail.com](mailto:albertomachdom@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alberto-machado-dom%C3%ADnguez-708290251/)
